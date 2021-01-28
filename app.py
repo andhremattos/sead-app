@@ -9,7 +9,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-st.title('Meu primeiro App usando Streamlit')
+st.title('Meu primeiro App usando Streamlit - Este é diferente.')
 
 st.write("Temos a informação de um data frame:")
 st.write(pd.DataFrame({
@@ -20,5 +20,5 @@ st.write(pd.DataFrame({
 """ 
 # Meu primeiro app
 
-Este é um **Aplicativo**.
+Este é um **Aplicativo**. Carlos André Lima de Matos
 """ 
