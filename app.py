@@ -20,5 +20,5 @@ st.write(pd.DataFrame({
 """ 
 # Meu primeiro app
 
-Este é um **Aplicativo**. Carlos André Lima de Matos
+Este é um **Aplicativo**. Carlos André Lima de Matos Ama Joseane.
 """ 
